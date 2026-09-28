@@ -17,3 +17,4 @@ This is intentionally a simple stand-in for semantic retrieval. Production RAG c
 
 ## Practice status
 Completed as a local practice exercise.
+Retrieval practice completed.
