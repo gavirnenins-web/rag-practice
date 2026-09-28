@@ -16,3 +16,4 @@ This is a deliberately simple agent. The important practice is tool selection an
 
 ## Practice status
 Completed as a local practice exercise.
+Agentic RAG practice completed.
