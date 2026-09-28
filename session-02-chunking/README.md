@@ -11,3 +11,6 @@ Practice splitting a document into smaller chunks before retrieval.
 
 ## Concept
 Large documents are usually divided into smaller pieces so that retrieval can return focused context instead of an entire document.
+
+## Practice status
+Completed as a local practice exercise.
