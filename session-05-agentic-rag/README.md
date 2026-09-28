@@ -13,3 +13,6 @@ Add another tool, such as `convert_currency()`, and make the agent choose the ap
 
 ## Concept
 This is a deliberately simple agent. The important practice is tool selection and control flow, not calling a real model.
+
+## Practice status
+Completed as a local practice exercise.
