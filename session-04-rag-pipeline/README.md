@@ -14,3 +14,4 @@ Improve retrieval and modify the answer generator so that it can answer question
 
 ## Practice status
 Completed as a local practice exercise.
+RAG pipeline practice completed.
