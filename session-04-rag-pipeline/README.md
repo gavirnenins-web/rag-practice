@@ -11,3 +11,6 @@ There is no LLM here. `answer.py` uses simple rules to demonstrate the separatio
 
 ## Task
 Improve retrieval and modify the answer generator so that it can answer questions about multiple destinations.
+
+## Practice status
+Completed as a local practice exercise.
