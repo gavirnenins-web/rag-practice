@@ -14,3 +14,4 @@ Large documents are usually divided into smaller pieces so that retrieval can re
 
 ## Practice status
 Completed as a local practice exercise.
+Chunking practice completed.
