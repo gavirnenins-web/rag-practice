@@ -14,3 +14,6 @@ For each chunk:
 
 ## Concept
 This is intentionally a simple stand-in for semantic retrieval. Production RAG commonly uses embeddings and vector or hybrid search, but understanding retrieval logic first is useful.
+
+## Practice status
+Completed as a local practice exercise.
