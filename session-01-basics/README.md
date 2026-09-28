@@ -9,3 +9,6 @@ RAG concept:
 
 ## Task
 Run `python practice.py` and modify the query. Observe how the selected travel information becomes context for the answer.
+
+## Practice status
+Completed as a local practice exercise.
